@@ -1,0 +1,62 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fef6e4;
+}
+
+nav{
+  background-color: #f3d2c1;
+}
+
+.img {
+  height: 200px;
+  width: auto;
+}
+
+h1 {
+  color: #001858;
+}
+
+p {
+  color: #172c66;
+}
+
+.title {
+  color: #001858;
+}
+
+.feature {
+  background-color: #8bd3dd;
+}
+
+.card {
+  border-radius: 50px;
+  border: none;
+  background-color: #fef6e4;
+}
+
+.btn {
+  background-color: #f582ae;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+  border: none;
+}
+
+.btn:hover {
+  background-color: #f582ae;
+  color: #172c66;
+  font-weight: bold;
+}
+
+.form-control{
+  border-radius: 50px;
+}
+
+footer{
+  background-color: #8bd3dd;
+}
+
+.faq {
+  text-decoration: none;
+  color: #172c66;
+}
